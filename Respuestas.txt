@@ -1,0 +1,7 @@
+#¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    No, porque ha sido creado dentro de la rama Opcion_2 y al cambiar a main solo visualizo los archivos que se encuentran dentro de este.
+#Agregue[...] Respuestas.txt y haga el commit correspondiente[...] ¿Qué diferencias nota?
+    Se puede visualizar que la rama main se ha actualizado y seguido su trayecto, mientras que la rama Opcion_2 se ha bifurcado del proyecto sin verse afectada por los cambios en main.
+#Combinamos master con Opcion_2[...], ¿Qué nota?
+    Que la rama Opcion_2 ha vuelto a unirse con main; sus archivos se han combinado y juntado.
+    
